@@ -2,11 +2,11 @@
 
 I'm **Sanskar Soni**, an Integrated Engineering student at the University of British Columbia. I specialize in Computer and Electrical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
 
-    1. 🔤 Natural Language Processing
-    2. 👁️‍🗨️ Computer vision
-    3. 🤖 Robotics
-    4. 🕹️ Microcontrollers and Embedded systems
-    5.  🎛 Control systems
+    1. Natural Language Processing
+    2. Computer vision
+    3. Robotics
+    4. Microcontrollers and Embedded systems
+    5. Control systems
 
 ## Currently I'm working on:
     1. MineSweeper: Capstone project building an autonomous landmine detection robot using ROS Noetic.
