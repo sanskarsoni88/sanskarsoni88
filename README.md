@@ -6,7 +6,6 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
     2. 👁️‍🗨️ Computer vision
     3. 🤖 Robotics
     4. 🕹️ Microcontrollers and Embedded systems
-    5. 👨‍💻 Software development
 
 ## Currently I'm working on:
     1. MineSweeper: Capstone project building an autonomous landmine detection robot using ROS Noetic.
