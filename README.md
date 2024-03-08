@@ -8,6 +8,11 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
     4. 🕹️ Microcontrollers and Embedded systems
     5. 👨‍💻 Software development
 
+## Currently I'm working on:
+    1. MineSweeper: Capstone project building an autonomous landmine detection robot using ROS Noetic.
+    2. Automatic Product categorization: Deployment and testiong stage of product classification pipeline.
+    3. Agrobots Maize detection: Testing models such as Single Shot Detection (SSD), Faster R CNN, Masked R CNN, etc. to detect maize plants in real time with high accuracy and low latency.
+
 ## Langueages I'm most proficient in
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -33,6 +38,8 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/Robotics%20Integration%20and%20Testing-00aba9?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-004883?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 ## Data Analysis and Visualization 📊
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black&style=flat)
