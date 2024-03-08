@@ -38,7 +38,7 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 ## Robotics 🤖
 
 ![ROS Noetic](https://img.shields.io/badge/-ROS%20Noetic-22314e?style=flat)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-4285F4?style=flat&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-004883?style=flat)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
