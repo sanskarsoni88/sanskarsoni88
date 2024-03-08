@@ -20,3 +20,18 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 ![Word2Vec](https://img.shields.io/badge/-Word2Vec-brightgreen?style=flat)
 ![YOLO](https://img.shields.io/badge/-YOLO-yellow?style=flat)
 ![Faster R-CNN](https://img.shields.io/badge/-Faster%20R--CNN-9cf?style=flat)
+
+## Robotics 🤖
+
+![ROS Noetic](https://img.shields.io/badge/-ROS%20Noetic-22314e?style=flat)
+
+## Data Analysis and Visualization 📊
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
+## Others 📚
+
+![Assembly](https://img.shields.io/badge/-Assembly-735cdd?style=flat)
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-004883?style=flat)
+
