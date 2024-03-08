@@ -8,8 +8,8 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
     4. Microcontrollers and Embedded systems
     5. Control systems
 
-## Currently I'm working on:
-    1. MineSweeper: Capstone project building an autonomous landmine detection robot using ROS Noetic.
+## My Projects:
+    1. [MineSweeper](https://github.com/moelhadary/Mine-Sweeper) : Capstone project building an autonomous landmine detection robot using ROS Noetic.
     2. Automatic Product categorization: Deployment and testiong stage of product classification pipeline.
     3. Agrobots Maize detection: Testing models such as Single Shot Detection (SSD), Faster R CNN, Masked R CNN, etc. to detect maize plants in real time with high accuracy and low latency.
 
