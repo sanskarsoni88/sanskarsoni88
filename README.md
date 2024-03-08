@@ -10,10 +10,10 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 
 ## My Projects:
 1. [MineSweeper](https://github.com/moelhadary/Mine-Sweeper) : Capstone project building an autonomous landmine detection robot using ROS Noetic.
-2. ![Automatic Product categorization](https://github.com/sanskarsoni88/Auto-categorization-pipeline): Deployment and testing stage of product classification pipeline.
-3. ![Agrobots Maize detection](https://github.com/sanskarsoni88/agrobots_my_contributions): Testing models such as Single Shot Detection (SSD), Faster R CNN, Masked R CNN, etc. to detect maize plants in real time with high accuracy and low latency.
-4. ![Beezy](https://github.com/sanskarsoni88/beezy): A smart monitoring and testing beehive.
-5. ![Arduino Robot Muscle](https://github.com/sanskarsoni88/Arduino-Robot-Muscle): A 4 DOF collaborative robot (co-bot).
+2. [Automatic Product categorization](https://github.com/sanskarsoni88/Auto-categorization-pipeline): Deployment and testing stage of product classification pipeline.
+3. [Agrobots Maize detection](https://github.com/sanskarsoni88/agrobots_my_contributions): Testing models such as Single Shot Detection (SSD), Faster R CNN, Masked R CNN, etc. to detect maize plants in real time with high accuracy and low latency.
+4. [Beezy](https://github.com/sanskarsoni88/beezy): A smart monitoring and testing beehive.
+5. [Arduino Robot Muscle](https://github.com/sanskarsoni88/Arduino-Robot-Muscle): A 4 DOF collaborative robot (co-bot).
 
 ## Languages I'm most proficient in
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
