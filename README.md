@@ -24,8 +24,13 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 ## Robotics 🤖
 
 ![ROS Noetic](https://img.shields.io/badge/-ROS%20Noetic-22314e?style=flat)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Robotics%20Integration%20and%20Testing-00aba9?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ## Data Analysis and Visualization 📊
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black&style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
