@@ -29,7 +29,7 @@ I'm **Sanskar Soni**, an Integrated Engineering student at the University of Bri
 
 ## Machine Learning/Deep Learning 🧠
 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-566be8?style=flat)
+![BERT](https://img.shields.io/badge/-Deep%20Learning-566be8?style=flat)
 ![FastText](https://img.shields.io/badge/-FastText-07d5c0?style=flat)
 ![Word2Vec](https://img.shields.io/badge/-Word2Vec-brightgreen?style=flat)
 ![YOLO](https://img.shields.io/badge/-YOLO-yellow?style=flat)
