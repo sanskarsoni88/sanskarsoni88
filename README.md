@@ -15,36 +15,8 @@ I'm **Sanskar Soni**, an Integrated Engineering graduate from the University of 
 4. [Beezy](https://github.com/sanskarsoni88/beezy): A smart monitoring and testing beehive, automating the manual calculation process of varroa mite infestation rates with a novel solution.
 5. [Arduino Robot Muscle](https://github.com/sanskarsoni88/Arduino-Robot-Muscle): A 4 DOF collaborative robot (co-bot).
 
-## Languages I'm most proficient in
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-![Assembly](https://img.shields.io/badge/-Assembly-735cdd?style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-## OS, Scripting and tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## Machine Learning/Deep Learning 🧠
-![Transformers](https://img.shields.io/badge/-Transformers-4285F4?style=flat&logo=huggingface&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-ff69b4?style=flat&logo=huggingface&logoColor=white)
-![FastText](https://img.shields.io/badge/-FastText-07d5c0?style=flat)
-![Word2Vec](https://img.shields.io/badge/-Word2Vec-brightgreen?style=flat)
-![YOLO](https://img.shields.io/badge/-YOLO-yellow?style=flat)
-![Faster R-CNN](https://img.shields.io/badge/-Faster%20R--CNN-9cf?style=flat)
-
-## Robotics 🤖
-
-![ROS Noetic](https://img.shields.io/badge/-ROS%20Noetic-22314e?style=flat)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-4285F4?style=flat&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-004883?style=flat)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
-## Data Analysis and Visualization 📊
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black&style=flat)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
 
 
