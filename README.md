@@ -2,10 +2,10 @@
 
 I'm **Sanskar Soni**, an Integrated Engineering graduate from the University of British Columbia. I specialize in Computer and Electrical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
 
-    1. Natural Language Processing
-    2. Computer vision
-    3. Robotics
-    4. Microcontrollers and Embedded systems
+    1. Microcontrollers and Embedded systems
+    2. Robotics
+    3. Natural Language Processing
+    4. Computer vision
     5. Control systems
 
 ## My Projects:
