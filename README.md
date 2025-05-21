@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-I'm **Sanskar Soni**, an Integrated Engineering student at the University of British Columbia. I specialize in Computer and Electrical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
+I'm **Sanskar Soni**, an Integrated Engineering graduate from the University of British Columbia. I specialize in Computer and Electrical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
 
     1. Natural Language Processing
     2. Computer vision
