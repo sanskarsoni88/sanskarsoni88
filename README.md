@@ -13,7 +13,7 @@ I'm **Sanskar Soni**, an Integrated Engineering graduate from the University of 
 2. [Automatic Product categorization](https://github.com/sanskarsoni88/Auto-categorization-pipeline): Deployment and testing stage of product classification NLP pipeline.
 3. [Agrobots Maize detection](https://github.com/sanskarsoni88/agrobots_my_contributions): Testing models such as Single Shot Detection (SSD), Faster R CNN, Masked R CNN, etc. to detect maize plants in real time with high accuracy and low latency.
 4. [Beezy](https://github.com/sanskarsoni88/beezy): A smart monitoring and testing beehive, automating the manual calculation process of varroa mite infestation rates with a novel solution.
-5. [Arduino Robot Muscle](https://github.com/sanskarsoni88/Arduino-Robot-Muscle): A 4 DOF collaborative robot (co-bot).
+5. [Cobot Muscle](https://github.com/sanskarsoni88/Arduino-Robot-Muscle): A 4 DOF collaborative robot (co-bot).
 
 
 
